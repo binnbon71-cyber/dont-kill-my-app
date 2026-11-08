@@ -1,4 +1,4 @@
----
+adb shell /data/app/~~hvs-xePPgYuKEEdSs7NJmw==/moe.shizuku.privileged.api-u4nooRwS_j065Q5LIUzoTw==/lib/arm64/libshizuku.so---
 manufacturer:
     - huawei
 
